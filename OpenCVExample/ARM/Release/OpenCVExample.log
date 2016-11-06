@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  App.xaml.cpp
+  MainPage.xaml.cpp
+  XamlTypeInfo.Impl.g.cpp
+MainPage.xaml.cpp(115): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const cv::String'
+MainPage.xaml.cpp(120): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const cv::String'
+  Generating code
+  Finished generating code
+  XamlTypeInfo.g.cpp
+  Generating code
+  Finished generating code
+  OpenCVExample.vcxproj -> C:\Users\Petra\Documents\Visual Studio 2015\Projects\BackgroundAppARM\ARM\Release\OpenCVExample\OpenCVExample.exe
+  OpenCVExample.vcxproj -> C:\Users\Petra\Documents\Visual Studio 2015\Projects\BackgroundAppARM\ARM\Release\OpenCVExample\OpenCVExample.pdb (Full PDB)
